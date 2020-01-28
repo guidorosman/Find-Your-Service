@@ -1,0 +1,106 @@
+/*ESTILOS GENERALES*/
+
+*{
+    margin:0;
+    padding:0;
+    text-decoration:none;
+    font-family: 'Roboto', sans-serif;
+}
+
+/*HEADER*/
+
+#header{
+    height:60px;
+    width:100%;
+    background-color:#7a95b2;
+}
+
+#menu{
+  float: right;
+}
+
+#menu ul li{
+  font-size: 24px;
+  display: inline-block;
+  margin: 0px 30px 0px 20px;
+  letter-spacing: 1px;
+  line-height: 60px;
+}
+
+#menu ul li a{
+  display: block;
+  color: white;
+  text-decoration: none;
+  transition: all 200ms;
+}
+
+#menu ul li a:hover{
+  transform: scale(1.2, 1.2);
+}
+
+/*MAIN SECTION*/
+
+#main{
+    min-height:200px;
+    padding-top:100px;
+}
+
+h1{
+    text-align:center;
+    font-size:36px;
+    margin-bottom:20px;
+}
+
+/*FORMULARIO*/
+
+#main #section form{
+    width:400px;
+    height:200px;
+    border: 1px solid #ccc;
+    margin:0px auto;
+    padding-top:30px;
+    border-radius: 15px;
+}
+
+input[type="email"],
+input[type="password"]{
+    display: block;
+    width: 200px;
+    margin: 0px auto;
+    margin-top: 10px;
+    height: 30px;
+    padding:5px;
+}
+
+.btn{
+    display: block;
+    width: 215px;
+    height: 35px;
+    margin: 0px auto;
+    margin-top:10px;
+    background: linear-gradient(to bottom, #3eb8e5 0%, #2ca0ca);
+    color:white;
+    font-weight:bold;
+    cursor:pointer;
+    font-size:18px;
+}
+
+.btn:hover{
+      box-shadow: 0px 0px 3px gray;
+}
+
+/*FOOTER*/
+
+#footer{
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    height:60px;
+    background-color:#3a88df;
+    text-align: center;
+}
+
+#footer span{
+    font-size:24px;
+    line-height:60px;
+}
