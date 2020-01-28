@@ -17,6 +17,8 @@ ingresar nuevos, o editar y borrar servicios existentes.
 
 - Tener habilitada la ubicacion en el explorador
 
+- En el archivo Connection.php configurar los datos de la base de datos. Host, User, Password y Nombre.
+
 # Tecnologías usadas
 
 El sitio fue desarrollado con PHP, HTML, CSS y JavaScript
