@@ -1,7 +1,7 @@
 # Find-Your-Service
 Examen para Brave New Tech
 
-┏━━━━━━━━━━━━━━━┓
+
 Introducción
 
 El proyecto consiste en un buscador de servicios. El usuario ingresa un texto, y luego se busca servicios que contengan en el titulo
@@ -10,5 +10,5 @@ del usuario.
 
 Ademas el sitio cuenta con una seccion administrador, donde mediante un logueo accede a la posibilidad de ver el listado de servicios, 
 ingresar nuevos, o editar y borrar servicios existentes.
-┗━━━━━━━━━━━━━━━┛
+
 
