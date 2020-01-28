@@ -16,3 +16,7 @@ ingresar nuevos, o editar y borrar servicios existentes.
 - Para que el proyecto pueda funcionar es necesario que se cree la base de datos con las tablas correspondientes de Services y Users. En el archivo script.sql estan los scripts correspondientes para crear las tablas.
 
 - Tener habilitada la ubicacion en el explorador
+
+# Tecnologías usadas
+
+El sitio fue desarrollado con PHP, HTML, CSS y JavaScript
