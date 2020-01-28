@@ -1,10 +1,10 @@
 <?php
     // Creo la clase Connection con los datos para poder ingresar a la base
     class Connection {
-        private $_HOST = 'localhost';
-        private $_USERNAME = 'id12249469_guidoros';
-        private $_PASSWORD = 'pass123';
-        private $_DATABASE = 'id12249469_examen_bnt';
+        private $_HOST = '';
+        private $_USERNAME = '';
+        private $_PASSWORD = '';
+        private $_DATABASE = '';
         protected $_conn;
         
         public function __construct(){
