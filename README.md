@@ -25,6 +25,6 @@ El sitio fue desarrollado con PHP, HTML, CSS y JavaScript
 
 # Probando el sitio
 
-Para todo aquel que quiera probar el sitio esta disponible en la url: https://examenbnt.000webhostapp.com/
+Para todo aquel que quiera probar el sitio esta disponible en la url: https://guidorosman.000webhostapp.com/examen-bnt/index.php
 
 Para acceder al panel de administrador loguearse con admin@admin.com y admin123
