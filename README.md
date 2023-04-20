@@ -18,3 +18,7 @@ In addition, the site has an administrator section, where by means of a login yo
 # Technologies used
 
 The site was developed with HTML, CSS, PHP y JavaScript.
+
+# Author
+
+Guido Ezequiel Rosman
