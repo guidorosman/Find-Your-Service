@@ -1,24 +1,20 @@
 # Find-Your-Service
-Examen para Brave New Tech
+PHP Developer exam for Brave New Tech
 
+# Introduction
 
-# Introducción
+The project consists of a service search engine. The user enters a text, and then services that contain the entered text in the title are searched. Then there is the ability to filter by radius of distance compared to the location of the service and the location of the user.
 
-El proyecto consiste en un buscador de servicios. El usuario ingresa un texto, y luego se busca servicios que contengan en el titulo
-el texto ingresado. Luego esta la posibilidad de filtrar por radio de distancia en comparacion con la ubicacion del servicio y la ubicacion
-del usuario.
+In addition, the site has an administrator section, where by means of a login you access the possibility of seeing the list of services, entering new ones, or editing and deleting existing services.
 
-Ademas el sitio cuenta con una seccion administrador, donde mediante un logueo accede a la posibilidad de ver el listado de servicios, 
-ingresar nuevos, o editar y borrar servicios existentes.
+# Requirements for operation
 
-# Requisitos para funcionamiento
+- In order for the project to work, it is necessary to create the database with the corresponding Services and Users tables. In the script.sql file are the corresponding scripts to create the tables.
 
-- Para que el proyecto pueda funcionar es necesario que se cree la base de datos con las tablas correspondientes de Services y Users. En el archivo script.sql estan los scripts correspondientes para crear las tablas.
+- Have the location enabled in the explorer
 
-- Tener habilitada la ubicacion en el explorador
+- In the file Connection.php configure the data of the database. Host, User, Password and Name.
 
-- En el archivo Connection.php configurar los datos de la base de datos. Host, User, Password y Nombre.
+# Technologies used
 
-# Tecnologías usadas
-
-El sitio fue desarrollado con HTML, CSS, PHP y JavaScript.
+The site was developed with HTML, CSS, PHP y JavaScript.
